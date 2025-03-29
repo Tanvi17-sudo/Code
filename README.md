@@ -6,7 +6,7 @@ Just wanted to wish you the **best of luck** on your coding journey! 🌟
 
 > **"Keep pushing forward! Success is just around the corner!"** 💪
 
-We're all excited to see your growth and achievements! Keep up the great work, and remember, you've got this! 😎
+I am excited to see your growth and achievements! Keep up the great work, and remember, you've got this! 😎
 
 ## 👩‍💻 What to Expect
 
@@ -19,13 +19,6 @@ We're all excited to see your growth and achievements! Keep up the great work, a
 - Stay consistent and don't give up. Small progress is still progress! 💪
 - Take breaks when needed. Coding is a marathon, not a sprint! 🏃‍♀️
 
----
-
-## 🎯 Goals for this Repository
-
-- **Learning**: Documenting and testing new concepts.
-- **Sharing**: Sharing your progress and code with others.
-- **Building**: Continuing to build your skills with fun projects!
 
 ---
 
